@@ -7,7 +7,10 @@ public class Application {
      *
      * The Lab.sayHello method should produce a value, "Hello, World!", which this class should be able to print
      * when you run the main method.
+     * 
+     * JB: I had to add this comment in order re-commit my work.
      */
+    
     public static void main(String[] args) {
         System.out.println("This program will print out whatever is returned by the Lab.sayHello method.");
         System.out.println("The current lab output: ");
